@@ -1,1 +1,10 @@
 # PHASE_TWO_PROJECT
+## OVERVIEW
+This project perfoms in depth analysis with a data science approach with an aim of assisting a new company navigate the film and production industry. This will be done by uncovering trends and insights in the datasets provided, that will guide informed and strategic decision making.
+## BUSINESS UNDERSTANDING
+ New company stakeholders have just recently opened a new movie studio which they believe will help boost perfomance and productivity in production activities. The analysis perfomed will build on this step by addressing the stakeholder needs and expectations by generating data-driven insights that align with the business objectives. This project will answer questions such as;
+ - Which are the top perfoming movies overall at the box office?
+ - Which are the most popular movies in terms of rating?
+ - Which genre should the company invest in more for profitable returns?
+## DATA UNDERSTANDING AND ANALYSIS
+The datasets used in this analysis were of diffent formats including csv files and a system database. After skimming through the datasets, relevant data that aligned with our project goals were used for analysis. Two datasets were used in addition to some tables that were pulled from the database provided. Some of this datasets showed inconsistency in data types, missing information, duplicated records among others and had to be cleaned prior to perfoming EDA. After analysis, the following visualizations were generated;
