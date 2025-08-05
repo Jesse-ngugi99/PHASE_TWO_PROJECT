@@ -14,3 +14,12 @@ The datasets used in this analysis were of diffent formats including csv files a
 ![image alt](https://github.com/Jesse-ngugi99/PHASE_TWO_PROJECT/blob/e06110339a6a98b631d6e0148d3451c80bf3fe46/Screenshot%202025-08-05%20204321.png)
 
 ![image alt](https://github.com/Jesse-ngugi99/PHASE_TWO_PROJECT/blob/e06110339a6a98b631d6e0148d3451c80bf3fe46/Screenshot%202025-08-05%20204252.png)
+
+## CONCLUSION
+From the analysis and visualizations, the following were the key recommendations to business stakeholders;
+1.The company should invest more in the following genres as they generate more income for a long period of time:
+- Action and superhero films
+- Documentaries
+2.The company should focus more on films that are relatable internationally. This is evident as top perfoming movies do well internationally than domestically, in terms of net gross.
+3.The company can invest in superhero merchandise as an extra income source mostly targeting children.
+Attached is the link to the tableau dashboard; https://public.tableau.com/views/Book1_17543891172260/TOPMOVIESDASHBOARD?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
