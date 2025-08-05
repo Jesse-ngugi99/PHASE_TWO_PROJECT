@@ -8,4 +8,9 @@ This project perfoms in depth analysis with a data science approach with an aim 
  - Which genre should the company invest in more for profitable returns?
 ## DATA UNDERSTANDING AND ANALYSIS
 The datasets used in this analysis were of diffent formats including csv files and a system database. After skimming through the datasets, relevant data that aligned with our project goals were used for analysis. Two datasets were used in addition to some tables that were pulled from the database provided. Some of this datasets showed inconsistency in data types, missing information, duplicated records among others and had to be cleaned prior to perfoming EDA. After analysis, the following visualizations were generated;
+
 ![image alt](https://github.com/Jesse-ngugi99/PHASE_TWO_PROJECT/blob/50c0a9e691a75e886eebeb724c8cc5850f0bb5a5/Screenshot%202025-08-05%20204202.png)
+
+![image alt](https://github.com/Jesse-ngugi99/PHASE_TWO_PROJECT/blob/e06110339a6a98b631d6e0148d3451c80bf3fe46/Screenshot%202025-08-05%20204321.png)
+
+![image alt](https://github.com/Jesse-ngugi99/PHASE_TWO_PROJECT/blob/e06110339a6a98b631d6e0148d3451c80bf3fe46/Screenshot%202025-08-05%20204252.png)
